@@ -191,12 +191,12 @@ p {
 
 
 .navbar {
-	font-size: 14px;
+	font-size: 18px;
   font-family: 'Roboto', sans-serif;
-	font-weight: 400;
+	font-weight: 500;
 	text-transform: capitalize;
 	padding-top: 25px;
-	letter-spacing: 1px;
+	letter-spacing: 1.3px;
 	height: 80px;
 	-webkit-transition: all 0.6s;
 	-moz-transition: all 0.6s;
@@ -1950,7 +1950,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	display: block;
 	line-height: 2;
 	font-family: 'Roboto', sans-serif;
-	font-size: 13px;
+	font-size: 17px;
 	padding-right: 15px;
 	text-transform: capitalize;
 	color:#A1A1A1;
